@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Code fullscreen result ](./fullscreen.png)
+![QR Code fullscreen result ](../fullscreen.png)
 
 ### Links
 
